@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b5758186fbd8_ABM%20college%20mobile%20app%20dev%20main.jpg",
+        "title": "Mastering App Development: A Comprehensive Guide",
+        "author": "Andrew Mathew",
+        "author_img": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?w=740&t=st=1710341704~exp=1710342304~hmac=248a4257079c3a12bf59b50137f0e24e07d36ae07036266d6a2d3c171a2556f2",
+        "posted_date": "2024-03-13",
+        "reading_time": 15,
+        "hashtags": [
+            "coding",
+            "app development",
+            "programming"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://faraitltd.com/wp-content/uploads/2023/02/Screenshot_7.jpg",
+        "title": "Revolutionizing Web Development with Cutting-edge Techniques",
+        "author": "Fabian Roy",
+        "author_img": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1710341809~exp=1710342409~hmac=0bedaea4d99eeda2639b5f91262ad9dc02760c74db0075cd18c64c0bef728655",
+        "posted_date": "2024-03-14",
+        "reading_time": 12,
+        "hashtags": [
+            "coding",
+            "web development",
+            "technologies"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://anjaneyauniversity.ac.in/blog/wp-content/uploads/2023/08/wepik-export-20230808104826aZeq.jpeg",
+        "title": "Demystifying Programming Paradigms: A Deep Dive",
+        "author": "Umme Habiba",
+        "author_img": "https://img.freepik.com/free-psd/3d-illustration-person-with-glasses_23-2149436185.jpg?w=740&t=st=1710341769~exp=1710342369~hmac=4e56e45a5efdbebd75d9c69f2ca5211b9af48074fd0e8789a8acd940f6d6e857",
+        "posted_date": "2024-03-15",
+        "reading_time": 20,
+        "hashtags": [
+            "coding",
+            "programming",
+            "technologies"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+        "title": "React Unleashed: Mastering the Framework's Advanced Features",
+        "author": "Nasif Fuad",
+        "author_img": "https://img.freepik.com/free-photo/3d-illustration-teenager-with-funny-face-glasses_1142-50955.jpg?t=st=1710340019~exp=1710343619~hmac=097cc3ddd18f1410e6a368a62c8725861aeeda9e3f43dcd55730a7620226fc80&w=740",
+        "posted_date": "2024-03-16",
+        "reading_time": 18,
+        "hashtags": [
+            "react",
+            "coding",
+            "web development"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100279.jpg?t=st=1710341884~exp=1710345484~hmac=51f01b091b1f496632666b3206f1fad8132feaeebaddece0d4c93119d2aec18d&w=740",
+        "title": "The Path to Success: How to Get a Job as a Self-Taught Programmer",
+        "author": "Jessica",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2024-03-17",
+        "reading_time": 25,
+        "hashtags": [
+            "coding",
+            "programming",
+            "self-taught"
+        ]
+    }
+]
